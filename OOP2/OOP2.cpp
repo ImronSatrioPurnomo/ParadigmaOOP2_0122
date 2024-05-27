@@ -19,3 +19,7 @@ public:
 		cout << "pesan dari lia" << endl;
 	}
 };
+
+int main() {
+
+}
