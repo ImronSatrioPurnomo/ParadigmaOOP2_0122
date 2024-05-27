@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OOP2", "OOP2\OOP2.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encapsulasi", "Encapsulasi\Encapsulasi.vcxproj", "{8898E4CE-0C0D-4257-830F-443FADFFFB57}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoOverriding", "NoOverriding\NoOverriding.vcxproj", "{F13879F7-836A-4E04-AC30-BFF5EA30EE42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{8898E4CE-0C0D-4257-830F-443FADFFFB57}.Release|x64.Build.0 = Release|x64
 		{8898E4CE-0C0D-4257-830F-443FADFFFB57}.Release|x86.ActiveCfg = Release|Win32
 		{8898E4CE-0C0D-4257-830F-443FADFFFB57}.Release|x86.Build.0 = Release|Win32
+		{F13879F7-836A-4E04-AC30-BFF5EA30EE42}.Debug|x64.ActiveCfg = Debug|x64
+		{F13879F7-836A-4E04-AC30-BFF5EA30EE42}.Debug|x64.Build.0 = Debug|x64
+		{F13879F7-836A-4E04-AC30-BFF5EA30EE42}.Debug|x86.ActiveCfg = Debug|Win32
+		{F13879F7-836A-4E04-AC30-BFF5EA30EE42}.Debug|x86.Build.0 = Debug|Win32
+		{F13879F7-836A-4E04-AC30-BFF5EA30EE42}.Release|x64.ActiveCfg = Release|x64
+		{F13879F7-836A-4E04-AC30-BFF5EA30EE42}.Release|x64.Build.0 = Release|x64
+		{F13879F7-836A-4E04-AC30-BFF5EA30EE42}.Release|x86.ActiveCfg = Release|Win32
+		{F13879F7-836A-4E04-AC30-BFF5EA30EE42}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
